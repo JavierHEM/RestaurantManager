@@ -41,7 +41,7 @@ RestaurantManager/
 ## 📥 Instalación
 1. Clonar el repositorio
 ```bash
-git clone [URL-del-repositorio]
+git clone https://github.com/JavierHEM/RestaurantManager.git
 ```
 
 2. Abrir el proyecto en Visual Studio 2022
@@ -143,10 +143,9 @@ Este proyecto está bajo la licencia MIT. Ver el archivo `LICENSE` para más det
 ## 📞 Soporte
 Para soporte y consultas:
 - Email: javier.elgueta.masias@gmail.com
-- Issues: [URL del repositorio]/issues
+- Issues: https://github.com/JavierHEM/RestaurantManager/issues
 
 ---
 ⌨️ con ❤️ por Javier Elgueta
 ```
 
-E
